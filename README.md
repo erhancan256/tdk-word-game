@@ -12,8 +12,11 @@ Kısaaca Açıklama:
 Neler Geliştirilebilir:
 
 -Soru sayısı arttırılabilir
+
 -Şık sayıyı arttırılabilir
+
 -Basit çözümlü kelime anlamları yerine daha uzun kelime anlamları soru olarak çıkartılabilir
+
 -Kelimeyi verip şıklarda anlamını bulma tarzında değiştirilebilir
 
 
